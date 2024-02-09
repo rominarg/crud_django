@@ -3,3 +3,7 @@ td {
   text-align: center;
   vertical-align: middle;
 }
+
+.bg-info {
+  background-color: #000000!important;
+}
